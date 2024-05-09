@@ -1,5 +1,7 @@
-texto de exemplo para **negrito**, *italico* , ~~taxado~~
+texto de exemplo para **negrito**, *italico* , ~~taxado~~  
+:+1:  
 
+👍👍👍👍👍👍👍👍👍   👍👍👍👍👍
 texto de exemplo para __negrito__, _italico_
 
 
